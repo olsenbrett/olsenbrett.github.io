@@ -24,6 +24,12 @@ header img {
     margin-left: 10px;
 }
 
+.aboutMe, .experience, .education {
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 10px 0;
+}
+
 .jobTitle, .degreeTitle {
     list-style: none;
 }
