@@ -24,6 +24,10 @@ header img {
     margin-left: 10px;
 }
 
+.jobTitle, .degreeTitle {
+    list-style: none;
+}
+
 .jobTitle, .companyName, .dates, .schoolTitle, .degreeTitle {
     line-height: .1;
 }
