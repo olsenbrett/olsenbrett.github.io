@@ -30,9 +30,6 @@ header img {
     margin: 10px 0;
 }
 
-.jobTitle, .degreeTitle {
-    list-style: none;
-}
 
 .jobTitle, .companyName, .dates, .schoolTitle, .degreeTitle {
     line-height: .1;
@@ -49,4 +46,3 @@ header img {
     padding: 5px 10px;
     cursor: pointer;
 }
-
